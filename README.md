@@ -21,3 +21,6 @@
 **And it will add an App to Settings ---> Apps Called 'DosLan 1.6.3' And it has an Uninstall thing too,**
 **The Build is currently Unstable/In Beta Mode so you will see bugs like where it says 'Build Build Not found... [Updates Avaiable]' in info,**
 ****We Currently Dont Control the Build's in DosLan1.6.3***
+## Other stuff...
+**DosLan is supported on Windows Natively, On Linux you can run the doslan.bat with wine and make a DosLan.Desktop file on the desktop**
+**And on Android... With some elbow grease you can run DosLan on an Phone with Ubuntu with UserLAnd.**
