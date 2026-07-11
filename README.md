@@ -16,6 +16,8 @@
 **Version 1.6.1 Was a HUGE Update!**
 **It removed the System info from the info command and made it for the DosLan Info,**
 **That handles Build Information from Online**
+# Version<sup>1.6.3 **BETA**</sup>
+**Well, this is just an release Beta for anyone that wants to test it. (nobody ever finds my projects,)**
 # Version<sup>1.6.3</sup> **Coming Soon!*
 **Version 1.6.3 Will Add Some Commands (maybe?)**
 **And it will add an App to Settings ---> Apps Called 'DosLan 1.6.3' And it has an Uninstall thing too,**
