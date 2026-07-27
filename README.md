@@ -3,7 +3,6 @@
 **DosLan 1.4 Was Created Like a Shell For CMD it Was Suppost**
 **To Be a Emulator, but now its just a Shell**
 **Just a Small Little Shell with not that Much Command**
-**~~DosLan1.4 Is An Emulator that Emulates Linux, MacOS And Windows~~**
 # Version<sup>1.5</sup>
 **DosLan1.5 Added alot of cool features like,**
 **Adding a DosLan Launch app on the Desktop and the Start Menu.**
